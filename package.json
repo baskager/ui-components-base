@@ -1,0 +1,19 @@
+{
+  "name": "ui-components-base",
+  "version": "0.0.1",
+  "description": "Base template for a UI-component package",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baskager/ui-components-base.git"
+  },
+  "author": "Sebastiaan Kager",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/baskager/ui-components-base/issues"
+  },
+  "homepage": "https://github.com/baskager/ui-components-base#readme"
+}
